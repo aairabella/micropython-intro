@@ -67,7 +67,7 @@ Por ejemplo, como se muestra en la siguiente imagen, para este tutorial se desca
 
 `esp32-idf3-20200324-v1.12-270-g38ccb4c64.bin `
 
-![](/home/andres/micropython-intro/pics/download_version.png) 
+![](pics/download_version.png) 
 
 Para cargar este firmware a la placa se debe ejecutar:
 
