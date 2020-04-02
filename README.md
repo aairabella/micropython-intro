@@ -15,7 +15,7 @@ Si dispone de una placa diferente, se recomienda buscar el datasheet de la misma
 ## Secciones
 
 1. [Instalación del Firmware MicroPython en la placa.](1-Introduccion.md) 
-2. Carga y ejecución de programas. GPIOs y Blinky.
+2. [Carga y ejecución de programas. GPIOs y Blinky.](2-Cargar-Programa.md) 
 3. Interrupciones.
 4. Convertidor Analógico a Digital (ADC).
 5. Conectarse a una red WiFi.
