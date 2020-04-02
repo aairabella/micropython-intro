@@ -1,6 +1,12 @@
 # Cargar programa
 
-Conectarse a la placa usando `rshell`:
+
+## Instalar `rshell`
+
+`pip install rshell`
+
+
+## Conectarse a la placa usando `rshell`:
 
 `rshell -p /dev/ttyUSB0 -b 115200 --quiet`
 
